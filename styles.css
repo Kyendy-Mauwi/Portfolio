@@ -10,6 +10,7 @@
     width: 100%;
     background-image: url(imgs/background2.jpg);
     background-position: center;
+    background-size: cover;
 } 
 
 nav {
